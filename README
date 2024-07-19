@@ -1,0 +1,2 @@
+### Use case
+This script can compare the virtual server from the ipvsadm -L output with the keepalived config.
